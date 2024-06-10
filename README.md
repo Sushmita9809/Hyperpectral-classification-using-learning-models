@@ -1,1 +1,2 @@
-# Hyperspectral image claasication using machine learning
+# Hyperspectral image classication using machine learning
+Indian Pines dataset
