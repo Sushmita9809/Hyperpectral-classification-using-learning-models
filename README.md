@@ -1,2 +1,1 @@
-# geospatial-python
-Programs on geospatial analysis with python.
+# Hyperspectral image claasication using machine learning
